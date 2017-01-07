@@ -1,0 +1,14 @@
+#main {
+	width: 35%;
+	height: 30%;'
+}
+
+img[title = "logo"] {
+	height: 40px;
+	position: absolute;
+}
+
+#search {
+	font-size: 20px;
+	height: 40px;
+}
